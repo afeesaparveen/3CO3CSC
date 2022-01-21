@@ -1,4 +1,15 @@
-<body>
-  <p style ="font-family:Verdana" "font-style:italic" "font-size:12px" "font-weight:bold"><p/>
-  <p style ="padding: 5px 5px 5px 5px"></p>
-</body>
+h1{
+  text-align:center;
+  color: #030378;
+}
+h2{
+  text-align:center;
+  color: #030378;
+}
+p{
+  font-family:Verdana;
+  font-style:italic;
+  font-weight:200;
+  font-size:12px;
+  padding:5px;
+}
