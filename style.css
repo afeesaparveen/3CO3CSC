@@ -3,8 +3,11 @@ h1{
   color: #030378;
 }
 h2{
-  text-align:center;
+  text-align:left;
   color: #030378;
+}
+h3{
+  color:#030378;
 }
 p{
   font-family:Verdana;
